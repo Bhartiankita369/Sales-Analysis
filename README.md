@@ -1,4 +1,3 @@
-# Sales-Analysis
 
 # Retail Store Sales Analysis
 
